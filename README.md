@@ -1,4 +1,5 @@
 #!/bin/bash
+
 #Author: Jonathan
 echo "Wait command" &
 process_id=$!
