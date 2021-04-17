@@ -1,4 +1,4 @@
-# inventory
+
 #!/bin/bash
 echo "Wait command" &
 process_id=$!
